@@ -1,4 +1,13 @@
-### Hi there 👋
+## TECH OTAKUS SAVE THE WORLD
+A Senior Student,study in **Yuanji High School**,major in **Technology**.
+
+
+Features C++/Qt(Maybe).
+
+Like something new and interesting.
+
+## Links:
+### Blog:https://blog.zaext.tech/
 
 <!--
 **ZaeXT/ZaeXT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
