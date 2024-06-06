@@ -7,7 +7,7 @@ Features C++/Qt(Maybe).
 Like something new and interesting.
 
 ## Links:
-### Blog:https://blog.zaext.tech/
+### [Blog:https://blog.zaext.top/](https://blog.zaext.top/)
 
 <!--
 **ZaeXT/ZaeXT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
