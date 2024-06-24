@@ -1,6 +1,6 @@
 ## TECH OTAKUS SAVE THE WORLD
-A Senior Student,study in **Yuanji High School**,major in **Technology**.
-
+A Senior Student,study in **University Toulouse Ⅲ**,major in **Technology**.
+Currently at remote study.
 
 Features C++/Qt(Maybe).
 
