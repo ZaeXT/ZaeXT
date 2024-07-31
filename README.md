@@ -1,6 +1,5 @@
 ## TECH OTAKUS SAVE THE WORLD
-A Senior Student,study in **University Toulouse Ⅲ**,major in **Technology**.
-Currently at remote study.
+A Senior Student,major in **Technology**.
 
 Features C++/Qt(Maybe).
 
