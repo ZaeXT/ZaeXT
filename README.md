@@ -1,5 +1,7 @@
 ## TECH OTAKUS SAVE THE WORLD
-A Senior Student,major in **Technology**.
+Zhang Xinlin
+
+A HDU Student,major in **Technology**.
 
 Features C++/Qt(Maybe).
 
