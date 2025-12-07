@@ -1,9 +1,9 @@
 ## TECH OTAKUS SAVE THE WORLD
-Zhang Xinlin
+
 
 A HDU Student,major in **Technology**.
 
-Features C++/Qt(Maybe).
+Features C++/Go/Java/Qt(Maybe).
 
 Like something new and interesting.
 
